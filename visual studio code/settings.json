@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'Cascadia Code PL', 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "debug.allowBreakpointsEverywhere": true
+}
